@@ -1,0 +1,27 @@
+
+.container{
+    border: 2px solid red;
+    width: 1000px;
+   
+    margin: 60px auto auto auto;
+}
+
+.fir{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+input{
+    border: 1px solid black;
+   
+}
+select{
+    border: 1px solid black;
+}
+.mob{
+    margin-left: -15px;
+}
+.error{
+    color: red;
+}
